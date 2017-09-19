@@ -1,0 +1,21 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}Company Overview}{3}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Object of the mission : the SoMoS II application}{3}{subsection.1.2}
+\contentsline {section}{\numberline {2}Dividing an application in services connected by a bus}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}A global architecture issue more than a problem with the particular application}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Enterprise Application Integration}{4}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}The state of the art : Two main trends in EAI}{4}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}Choosing a model}{5}{subsubsection.2.2.2}
+\contentsline {subsection}{\numberline {2.3}Choosing a product}{6}{subsection.2.3}
+\contentsline {section}{\numberline {3}Methodology}{7}{section.3}
+\contentsline {subsection}{\numberline {3.1}Global architecture of the solution}{7}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Detailed implementation}{8}{subsection.3.2}
+\contentsline {section}{\numberline {4}Testing the system and visualizing the results}{9}{section.4}
+\contentsline {subsection}{\numberline {4.1}A first simple application to learn how WSO2 EI works}{9}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Trying to test the project solution attempt}{10}{subsection.4.2}
+\contentsline {section}{\numberline {5}Personal Record}{11}{section.5}
+\contentsline {subsection}{\numberline {5.1}First professional experience}{11}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Working with new tools}{11}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Supervising a student}{12}{subsection.5.3}
+\contentsline {section}{\numberline {6}Conclusion}{12}{section.6}
+\contentsline {section}{\numberline {7}The Wiki I wrote on using WSO2 EI}{14}{section.7}

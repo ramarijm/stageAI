@@ -1,0 +1,327 @@
+{
+  "Parcel": {
+    "PSM": {
+      "TrackingId": "J18CBEZ903N030310303007N",
+      "MachineType": "-",
+      "MailCenter": "-",
+      "MachineId": "1",
+      "LetterId": "0",
+      "PermittedTime": "0",
+      "Images": {
+        "TP": {
+          "Type": "-",
+          "ROI": {
+            "Top": { "Confidence": "0" }
+          }
+        },
+        "BT": {
+          "Type": "-",
+          "ROI": {
+            "Bottom": { "Confidence": "0" }
+          }
+        },
+        "LB": {
+          "Type": "-",
+          "ROI": {
+            "Left": { "Confidence": "0" },
+            "Back": { "Confidence": "0" }
+          }
+        },
+        "RF": {
+          "Type": "-",
+          "ROI": {
+            "Right": { "Confidence": "0" },
+            "Front": { "Confidence": "0" }
+          }
+        }
+      },
+      "Barcode1": {
+        "Status": "-",
+        "ROI": { "Confidence": "0" }
+      },
+      "Barcode2": {
+        "Status": "-",
+        "ROI": { "Confidence": "0" }
+      },
+      "Barcode3": {
+        "Status": "-",
+        "ROI": { "Confidence": "0" }
+      },
+      "Barcode4": {
+        "Status": "-",
+        "ROI": { "Confidence": "0" }
+      },
+      "Barcode5": {
+        "Status": "-",
+        "ROI": { "Confidence": "0" }
+      },
+      "Barcode6": {
+        "Status": "-",
+        "ROI": { "Confidence": "0" }
+      },
+      "Barcode7": {
+        "Status": "-",
+        "ROI": { "Confidence": "0" }
+      },
+      "Barcode8": {
+        "Status": "-",
+        "ROI": { "Confidence": "0" }
+      },
+      "Barcode9": {
+        "Status": "-",
+        "ROI": { "Confidence": "0" }
+      },
+      "Barcode10": {
+        "Status": "-",
+        "ROI": { "Confidence": "0" }
+      },
+      "MailTypeDetected": "-",
+      "Irregular": "false",
+      "Length": { "Value": "0" },
+      "Height": { "Value": "0" },
+      "Width": { "Value": "0" },
+      "Weight": { "Value": "0" },
+      "SlaveTrayUsed": "false",
+      "RejectReason": "-",
+      "RecirculationCount": "0",
+      "AckMailpieceMsg": {
+        "Status": "-",
+        "ErrorCode": "0",
+        "TrackingId": "0",
+        "LetterId": "0",
+        "SystemStatus": "-"
+      },
+      "TransmitMsg": {
+        "TrackingId": "0",
+        "LetterId": "0",
+        "SystemStatus": "-",
+        "OverflowStrategy": "-"
+      },
+      "AckTransmitMsg": {
+        "Status": "-",
+        "ErrorCode": "0",
+        "TrackingId": "0",
+        "LetterId": "0"
+      },
+      "AckUpdateMsg": {
+        "Status": "-",
+        "ErrorCode": "0",
+        "TrackingId": "0",
+        "LetterId": "0",
+        "SystemStatus": "-"
+      },
+      "UpdateMsg": {
+        "TrackingId": "0",
+        "MachineType": "-",
+        "MailCenter": "-",
+        "MachineId": "-",
+        "LetterId": "0",
+        "RejectReason": "-"
+      }
+    },
+    "Properties": {
+      "Length": { "Value": "0" },
+      "Height": { "Value": "0" },
+      "Width": { "Value": "0" },
+      "Weight": { "Value": "10" },
+      "TMMBarcode": {
+        
+      },
+      "SoSLabel": {
+        "InvalidMultipleLabels": "false",
+        "Red": { "Present": "false" },
+        "Yellow": { "Present": "false" },
+        "Green": { "Present": "false" },
+        "White": { "Present": "false" }
+      },
+      "Barcodes": {
+        "Retail": {
+          
+        },
+        "Business": {
+          
+        },
+        "BusinessUnconverted": {
+          
+        },
+        "FidesBarcodeS10": {
+          
+        },
+        "FidesBarcode": {
+          
+        },
+        "OutboundB2B": {
+          
+        },
+        "OutboundEMS": {
+          
+        },
+        "OutboundERS": {
+          
+        },
+        "OutboundEPGBusiness": {
+          
+        },
+        "OutboundEPGRetail": {
+          
+        },
+        "RegisteredDomestic": {
+          
+        },
+        "RegisteredInternational": {
+          
+        },
+        "Prime": {
+          
+        },
+        "ValueBarcode": {
+          
+        },
+        "Restmail": {
+          
+        },
+        "FMA": {
+          
+        },
+        "BelgiumBarcode": {
+          
+        }
+      },
+      "Images": {
+        "ElectedImage": { "Name": "-" },
+        "TP": {
+          
+        },
+        "BT": {
+          
+        },
+        "LB": {
+          
+        },
+        "RF": {
+          
+        }
+      }
+    },
+    "TMM": {
+      "ItemCode": "-----------",
+      "Announced": "true",
+      "Direction": "-",
+      "AccountId": "aaaaaa",
+      "Sender": {
+        "Address": {
+          "Sanction": {
+            
+          }
+        }
+      },
+      "Addressee": {
+        "Address": {
+          "CountryCode": "BE",
+          "Sanction": {
+            
+          }
+        }
+      },
+      "AnnouncedWeightInGrams": "0",
+      "IsCod": "false",
+      "CodAmountInEurocents": "0",
+      "IsParcelLocker": "false",
+      "IsPugo": "false",
+      "IsSaturdayDelivery": "false",
+      "IsSundayDelivery": "false",
+      "IsEveningDelivery": "false",
+      "IsSameDayDelivery": "false",
+      "Blacklisted": "false",
+      "BlockIfNotAnnounced": "false",
+      "CeraCustomer": "false",
+      "KnownInTrackAndTrace": "false",
+      "Results": {
+        "Status": "-",
+        "ErrorCode": "0",
+        "Source": "-"
+      }
+    },
+    "OCR": {
+      "SubmitMsg": { "PermittedTime": "0" },
+      "Results": {
+        "Status": "-",
+        "ErrorCode": "0",
+        "ResponseTime": "0"
+      },
+      "Sanction": {
+        "Depth": "-",
+        "Status": "-"
+      },
+      "Sticker1": {
+        
+      },
+      "Sticker2": {
+        
+      },
+      "Sticker3": {
+        
+      },
+      "Images": {
+        "ElectedImage": { "Name": "-" },
+        "TP": {
+          
+        },
+        "BT": {
+          
+        },
+        "LB": {
+          
+        },
+        "RF": {
+          
+        }
+      }
+    },
+    "WCS": {
+      "Sanction": {
+        "Depth": "-",
+        "Status": "-"
+      }
+    },
+    "Coding": {
+      "Rules": { "Status": "-" },
+      "WebCodingDistriAsked": "false",
+      "SanctionEnrichment": "false",
+      "ElectedSanction": {
+        "Status": "-",
+        "ErrorCode": "0",
+        "Code": "0056C0000091003000000000000000000000000000007",
+        "Type": "address",
+        "Source": "-"
+      },
+      "Results": {
+        "Code": "0056C0000091003000000000000000000000000000007",
+        "Type": "address",
+        "Source": "TMM_Addressee",
+        "ReturnToSender": "false"
+      }
+    },
+    "Sorting": {
+      "SortingProduct": {
+        "Type": "-",
+        "Condition": {
+          "Priority": "0",
+          "PosCodeNeeded": "false"
+        }
+      },
+      "Results": { "OverflowStrategy": "-" },
+      "Context": {
+        "SessionId": "0",
+        "SortPlan": {
+          
+        },
+        "Multicriteria": {
+          
+        },
+        "CodingDeviceMode": "-",
+        "SortingMode": "-"
+      }
+    }
+  }
+}
